@@ -1,0 +1,25 @@
+
+/*
+ * 
+ * DataBase Interface.
+ * * Simple DataBase Composed by a unique Table "Article"
+ * * Connection in Synchronus Mode.
+ * 
+ * Article Table
+ * * Reference   : Numeric | PRIMARY KEY.
+ * * Designation : Small Text.
+ * * Price       : Simple Real (Float).
+ * 
+ * DataBase Engine
+ * * MS. ACCESS
+ * 
+ * Technology
+ * * ADO.NET (OleDb API)
+ * 
+ * Printing Mode
+ * * Console.
+ * 
+ * BY
+ * *MARRAKCHI Ghassen
+ * 
+ */
